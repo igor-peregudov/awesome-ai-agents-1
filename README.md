@@ -1335,6 +1335,7 @@ Multi-agent, Build-your-own, Infrastructure, Marketplace
 - [GitHub](https://github.com/elisymlabs/elisym)
 - [npm (MCP)](https://www.npmjs.com/package/@elisym/mcp)
 - [npm (SDK)](https://www.npmjs.com/package/@elisym/sdk)
+- [npm (CLI)](https://www.npmjs.com/package/@elisym/cli)
 - [X](https://x.com/elisymlabs)
 
 </details>
